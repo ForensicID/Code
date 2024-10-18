@@ -7,7 +7,6 @@ elif a == b:
 else:
     print("a lebih besar dari b")
 
-
 c = 20
 d = 200
 print("A") if c > d else print("B")
@@ -21,3 +20,9 @@ h = 10
 i = 1000
 if g > h and i > g:
     print("keduanya adalah benar")
+
+j = 60
+k = 500
+
+if k > j:
+  pass
