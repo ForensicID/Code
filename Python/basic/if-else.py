@@ -26,3 +26,10 @@ k = 500
 
 if k > j:
   pass
+
+l = 5
+m = 8
+if l > m:
+  print('Hello')
+else:
+  print('Welcome')
